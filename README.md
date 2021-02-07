@@ -1,4 +1,4 @@
-# alucard-selfbot
+# hosting
 Run install.bat file to install all necessary modules etc.
 
 
